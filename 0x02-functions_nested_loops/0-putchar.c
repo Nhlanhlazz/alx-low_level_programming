@@ -2,10 +2,10 @@
 
 /**
  * main-entry point
- *
- * Description: Creating functions
+ * Description: written by nonhlanhla
  * Return: Always 0 (success)
  */
+
 int main(void)
 {
 	_putchar('_');
